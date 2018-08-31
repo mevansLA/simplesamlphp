@@ -7,6 +7,10 @@
     "license": "LGPL-2.1-or-later",
     "authors": [
         {
+            "name":"Matthew Evans",
+            "email":"mevans@lifeadvantages.com"
+        },
+        {
             "name": "Andreas Åkre Solberg",
             "email": "andreas.solberg@uninett.no"
         },
